@@ -7,9 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rezidentalz)
 
   # Software Engineer
-- 🌱 I’m currently learning software engineering on ALX Africa.
-- 👯 I’m looking to collaborate on full stack development projects.
-- 💬 Ask me about programming in java,c,python,html,css and javascript.
+I am a fullstack developer who is passionate about solving problems using technology, making an impact is my driving force.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
