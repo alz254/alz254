@@ -1,3 +1,4 @@
+<div id ="profile">
 ### Hi there 👋 I'm Allan
 
   # Software Engineer
@@ -15,7 +16,11 @@
    <a href="rezidentalz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>                                     
+</div> 
+  .profile {
+ background-image: url("https://www.itprotoday.com/programming-languages/most-popular-programming-languages-what-s-hot-what-s-not-2022");
+}
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
+</div>
