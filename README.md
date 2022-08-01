@@ -13,7 +13,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://mail.google.com/mail/u/?authuser=rezidentalz@gmail.com">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rezidentalz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div> 
