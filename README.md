@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rezidentalz)
 
   # Software Engineer
-Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a web developer. I am ambitious, adventurous, assiduous, animated, and an alliteration advocate.
+Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a fullstack developer. I am ambitious, adventurous, assiduous, animated, and an alliteration advocate.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
