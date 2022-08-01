@@ -15,12 +15,7 @@
    <a href="rezidentalz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
-    - send_me_an_email
-    - >rezidentalz@gmail.com
-    - connect_on_linkedin
-    - >https://www.linkedin.com/in/allan-ndonga-566189214/
-                                        
+</div>                                     
 ###
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
