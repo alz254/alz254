@@ -1,4 +1,4 @@
-
+![Allan Ndonga || Fullstack developer](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming.jpg?itok=6bRkryO5)
 ### Hi there 👋 I'm Allan
 
   # Software Engineer
