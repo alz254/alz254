@@ -7,7 +7,7 @@
 - 💬 Ask me about programming in java,c,python,html,css and javascript.
 - 📫 How to reach me: 
 <div id="badges>
-  <a href="https://www.linkedin.com/in/allan-ndonga-566189214">
+  <a href="https://www.linkedin.com/in/allan-ndonga-566189214/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </a>
