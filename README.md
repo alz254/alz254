@@ -12,6 +12,5 @@
     - >https://www.linkedin.com/in/allan-ndonga-566189214/
                                         
 ###
-// README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
