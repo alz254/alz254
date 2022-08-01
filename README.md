@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>                                     
-###
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alz254&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254&layout=compact)
