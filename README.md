@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div> 
-  .profile {
+  profile {
  background-image: url("https://www.itprotoday.com/programming-languages/most-popular-programming-languages-what-s-hot-what-s-not-2022");
 }
 
