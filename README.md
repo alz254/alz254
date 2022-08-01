@@ -12,3 +12,9 @@
     - >https://www.linkedin.com/in/allan-ndonga-566189214/
                                         
 ###
+<a href="https://github.com/alz254/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alz254&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/alz254/alz254.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alz254&repo=alz254.github.io&theme=buefy" />
+</a>
