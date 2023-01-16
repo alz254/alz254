@@ -10,4 +10,8 @@
 
   # Software Engineer
 Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a fullstack developer. I am ambitious, adventurous, assiduous, animated, and an alliteration advocate.
+
+
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alz254&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alz254)](https://github.com/alz254/github-readme-stats)
